@@ -1,2 +1,2 @@
 # Python
-CAP776
+CAP776 - Programing in Python
